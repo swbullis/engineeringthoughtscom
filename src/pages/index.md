@@ -5,10 +5,7 @@ intro_content: |
   # Engineering Thoughts
 
   Thoughts on Software Engineering & Leadership
-intro_actions:
-  - label: Contact
-    url: /contact
-    style: secondary
+intro_actions: []
 has_more_link: true
 more_link_text: Read more
 seo:
