@@ -5,7 +5,7 @@ excerpt: >-
   walking through dense forest, undergrowth, or bushes, where forward progress
   requires pushing vegetation aside.
 date: '2021-10-30'
-thumb_img_path: images/1.jpg
+thumb_img_path: images/Logo@2x.svg
 thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_path: images/Logo@2x.svg
 content_img_alt: A man standing on a rock cliff overlooking river
