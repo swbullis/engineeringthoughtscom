@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-10-30'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking river
-content_img_path: images/1.jpg
+content_img_path: images/Logo@2x.svg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
   title: Basic Rules For Walking In The Mountains
