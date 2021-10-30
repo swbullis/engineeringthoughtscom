@@ -44,7 +44,7 @@ seo:
 template: post
 subtitle: Books & Books & Books on Senior Engineering & Engineering Management
 ---
-Over the few years, I've taken to collecting print and e-books.  I probably have over 500 books I haven't read that at one point I thought to myself hey that could be useful.  Going through my collections I am positive I may have some duplicates and I keep adding more, I believe that we never stop learning and trying to better ourselves. In today's remote world, I have found it personally more difficult to grow oneself from my peers, and so I have returned to book studies.  These are the current books on my desk in various states of completion. 
+Over the few years, I've taken to collecting print and e-books.  I probably have over 500 books I haven't read that at one point I thought to myself hey that could be useful.  Going through my collections I am positive I may have some duplicates and I keep adding more, I believe that we never stop learning and trying to better ourselves. In today's remote world, I have found it personally more difficult to grow oneself from my peers, and so I have returned to book studies.  These are the current books on my desk in various states of completion.
 
 ## Engineering Management
 
@@ -74,5 +74,6 @@ Over the few years, I've taken to collecting print and e-books.  I probably have
 
 ## Carving out the time
 
-I have been looking for a good system to allow me to have the time to not only read and understand the material presented in these books but also create ways where I can retrieve the lessons that I have learned. 
+I have been looking for a good system to allow me to have the time to not only read and understand the material presented in these books but also create ways where I can retrieve the lessons that I have learned.
 
+### Let's be realistic
