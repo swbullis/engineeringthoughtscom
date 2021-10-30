@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2021-10-30'
 thumb_img_path: images/Logo@2x.svg
-thumb_img_alt: A man standing on a rock cliff overlooking river
+thumb_img_alt: Gears of Information
 content_img_path: images/Logo@2x.svg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
