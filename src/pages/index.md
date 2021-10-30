@@ -4,7 +4,7 @@ has_intro: true
 intro_content: |
   # Engineering Thoughts
 
-  Thoughts on Software Engineering & Leadership
+  Thoughts on Software Engineering & Engineering Leadership growth
 intro_actions: []
 has_more_link: true
 more_link_text: Read more
