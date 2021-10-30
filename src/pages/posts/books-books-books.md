@@ -1,30 +1,26 @@
 ---
-title: The never ending reading list
+title: The never-ending reading list
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Over the few years, I've taken to collecting print and e-books. I probably have over 500 books I haven't read that at one point I thought to myself hey that could be useful. Going through my collections I am positive I may have some duplicates and I keep adding more, I believe that we never stop learning and trying to better ourselves. In today's remote world, I have found it personally more difficult to grow myself from my peers, and so I have returned to book studies. These are the current books on my desk in various states of completion.
 date: '2021-10-30'
 thumb_img_path: images/Logo@2x.svg
 thumb_img_alt: Gears representing Ideas and Information
 content_img_path: images/Logo@2x.svg
 content_img_alt: Gears representing Ideas and Information
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: The never-ending reading list
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+     Returning to books studies.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: The never-ending reading list
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Returning to books studies.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -33,11 +29,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: The never-ending reading list
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Returning to books studies.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
