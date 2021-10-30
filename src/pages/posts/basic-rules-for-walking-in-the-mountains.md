@@ -42,7 +42,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 template: post
-subtitle: Senior Engineering
+subtitle: Books & Books & Books on Senior Engineering & Engineering Management
 ---
 Over the few years, I've taken to collecting print and e-books.  I probably have over 500 books I haven't read that at one point I thought to myself hey that could be useful.  Going through my collections I am positive I may have some duplicates and I keep adding more, I believe that we never stop learning and trying to better ourselves. In today's remote world, I have found it personally more difficult to grow oneself from my peers, and so I have returned to book studies.  These are the current books on my desk in various states of completion. 
 
