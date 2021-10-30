@@ -2,7 +2,7 @@
     "layout_style": "grid",
     "palette": "green",
     "header": {
-        "title": "Ampersand",
+        "title": "Engineering Thoughts",
         "logo_img": "images/Logo@2x.svg",
         "logo_img_alt": "Engineering Thoughts",
         "has_nav": true,
@@ -20,42 +20,14 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "content": "&copy; Engineering Thoughts. All rights reserved.",
         "has_social": true,
         "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
             {
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "icon",
                 "icon_class": "github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "dev",
                 "new_window": true
             }
         ],
@@ -64,6 +36,6 @@
         "subscribe_content": "Subscribe to our email newsletter to receive automatic updates with thoughts...",
         "subscribe_action": "/subscribe-success"
     },
-    "title": "Stackbit Ampersand Theme",
+    "title": "Engineering Thoughts",
     "domain": "https://engineeringthoughtscom-d92ef.netlify.app"
 }
